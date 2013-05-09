@@ -22,7 +22,7 @@ public class cargarSaldo {
 	}	
 	
 	public void init(){
-		jf=new JFrame("Cargar Saldo");
+		jf=new JFrame("Cargar Saldo ");
         jf.setLayout(new FlowLayout());
 		jf.setSize(400, 300);
 		jf.setBounds(200, 200, 400, 300);
